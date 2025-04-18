@@ -1,12 +1,26 @@
 {
   "name": "npm-own",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A library to colorify your console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "console log colors",
+    "colorify logs"
+  ],
+  "author": "Sourabh Singh Bais",
+  "license": "MIT",
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }
