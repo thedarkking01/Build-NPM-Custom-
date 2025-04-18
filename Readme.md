@@ -1,6 +1,3 @@
-Here's a well-structured `README.md` file for your GitHub repo where you built your own npm package called `npm-own`. It includes sections like installation, usage, features, and contribution guidelines.
-
----
 
 ```markdown
 # npm-own
