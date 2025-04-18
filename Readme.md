@@ -1,5 +1,4 @@
 
-```markdown
 # npm-own
 
 🎨 **npm-own** is a lightweight JavaScript/TypeScript library that lets you easily colorify your console logs — making debugging more fun and readable!
